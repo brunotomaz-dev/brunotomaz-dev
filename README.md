@@ -12,18 +12,66 @@
 
 # Tecnologias
 
-<div style="display: inline_block">
+<div style="display: inline_block"><br>   
   <table align="center" style="display: flex;">
     <tr>
       <th>
-        <img align="center" alt="Logo-js" height="30" width="40" text="JavaScript"
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
+        <img align="center" alt="Logo-js" width="40" height="50" text="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
         <p>JavaScript</p>
+      </th>
+      <th>
+        <img align="center" alt="Logo-HTML" width="40" height="50" text="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+        <p>HTML</p>
+      </th>
+      <th>
+        <img align="center" alt="Logo-CSS" width="40" height="50" text="JavaScript"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+        <p>CSS</p>  
+      </th>
+      <th>
+        <img align="center" alt="Logo-Jest" width="40" height="50" text="JavaScript"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+        <p>Jest</p>   
+      </th>
+      <th>
+        <img align="center" alt="Logo-Redux" width="40" height="50" text="JavaScript"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+        <p>Redux</p>    
+      </th>
+      <th>
+        <img align="center" alt="Logo-React" width="40" height="50" text="JavaScript"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+        <p>React</p>      
+      </th>
+      <th>
+        <img align="center" alt="Logo-NodeJs" width="40" height="50" text="JavaScript"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+        <p>Node.js</p> 
+      </th>
+      <th>
+        <img align="center" alt="Logo-Sequelize" width="40" height="50" text="JavaScript"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
+        <p>Sequelize</p>   
+      </th>
+      <th>
+        <img align="center" alt="Logo-Mysql" width="40" height="50" text="JavaScript"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+        <p>Mysql</p>   
+      </th>
+      <th>
+        <img align="center" alt="Logo-Docker" width="40" height="50" text="JavaScript"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
+        <p>Docker</p>  
+      </th>
+      <th>
+        <img align="center" alt="Logo-Typescript" width="40" height="50" text="JavaScript"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+        <p>Typescript</p>    
       </th>
     </tr>
   </table>
 </div>
-  
+
 - 📫 Você pode me encontrar no [Linkedin](https://www.linkedin.com/in/orbnu/)
 
 <!---
