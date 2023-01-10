@@ -79,6 +79,30 @@
 <div align="center">
   <table>
     <tr>
+      <th>NodeJs</th>
+      <th>Express.js</th>
+      <th>JWT</th>
+    </tr>
+    <tr>
+      <th>
+        <img align="center" width="50" height="50"  
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+      </th>
+      <th>
+        <img align="center" width="50" height="50"  
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
+      </th>
+      <th>
+        <img align="center" width="50" height="50"  
+        src="https://vegibit.com/wp-content/uploads/2018/07/JSON-Web-Token-Authentication-With-Node.png" />
+      </th>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
       <th colspan="4" align="center">SQL</th>
     </tr>
     <tr>
@@ -101,37 +125,15 @@
 <div align="center">
   <table>
     <tr>
-      <th>Mysql</th>
-      <th>Sequelize</th>
+      <th colspan="4" align="center">NoSQL</th>
+    </tr>
+    <tr>
       <th>MongoDB</th>
-      <th>NodeJs</th>
-      <th>Express.js</th>
-      <th>JWT</th>
     </tr>
     <tr>
       <th>
-        <img align="center" width="40" height="50"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-      </th>
-      <th>
-        <img align="center" width="40" height="50"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg"/>
-      </th>
-      <th>
         <img align="center" width="40" height="50"  
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
-      </th>
-      <th>
-        <img align="center" width="50" height="50"  
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-      </th>
-      <th>
-        <img align="center" width="50" height="50"  
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
-      </th>
-      <th>
-        <img align="center" width="50" height="50"  
-        src="https://vegibit.com/wp-content/uploads/2018/07/JSON-Web-Token-Authentication-With-Node.png" />
       </th>
     </tr>
   </table>
@@ -167,6 +169,7 @@
     </tr>
   </table>
 </div>
+
 # A desenvolver
 
 <div align="center">
