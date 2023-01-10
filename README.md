@@ -23,8 +23,6 @@
     <tr>
       <th>JavaScript</th>
       <th>Typescript</th>
-      <th>Git</th>
-      <th>Docker</th>
     </tr>
     <tr>
       <th>
@@ -33,11 +31,25 @@
       <th>
         <img align="center" alt="Logo-ts" width="40" height="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
       </th>
+    </tr>
+  </table>
+
+  <table>
+    <tr>
+      <th>Git</th>
+      <th>Docker</th>
+      <th>Eslint</th>
+    </tr>
+    <tr>
       <th>
         <img align="center" alt="Logo-git" width="40" height="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
       </th>
       <th>
         <img align="center" alt="Logo-docker" width="40" height="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"/>
+      </th>
+      <th>
+        <img align="center" width="40" height="50"  
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg"/>
       </th>
     </tr>
   </table>
@@ -65,7 +77,7 @@
         <img align="center" alt="Logo-react" width="40" height="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
       </th>
       <th>
-        <img align="center" alt="Logo-router" width="50" height="50"  src="https://reactrouter.com/_brand/react-router-mark-color-inverted.svg"/>
+        <img align="center" alt="Logo-router" width="50" height="50"  src="https://reactrouter.com/_brand/react-router-mark-color.svg"/>
       </th>
       <th>
         <img align="center" alt="Logo-redux" width="40" height="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
