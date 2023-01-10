@@ -79,6 +79,28 @@
 <div align="center">
   <table>
     <tr>
+      <th colspan="4" align="center">SQL</th>
+    </tr>
+    <tr>
+      <th>Mysql</th>
+      <th>Sequelize</th>
+    </tr>
+    <tr>
+      <th>
+        <img align="center" width="40" height="50"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+      </th>
+       <th>
+        <img align="center" width="40" height="50"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg"/>
+      </th>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
       <th>Mysql</th>
       <th>Sequelize</th>
       <th>MongoDB</th>
@@ -100,18 +122,51 @@
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
       </th>
       <th>
-        <img align="center" alt="Logo-router" width="50" height="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+        <img align="center" width="50" height="50"  
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
       </th>
       <th>
-        <img align="center" alt="Logo-router" width="50" height="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
+        <img align="center" width="50" height="50"  
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
       </th>
       <th>
-        <img align="center" alt="Logo-redux" width="50" height="50"  src="https://vegibit.com/wp-content/uploads/2018/07/JSON-Web-Token-Authentication-With-Node.png" />
+        <img align="center" width="50" height="50"  
+        src="https://vegibit.com/wp-content/uploads/2018/07/JSON-Web-Token-Authentication-With-Node.png" />
       </th>
     </tr>
   </table>
 </div>
 
+<h3 align="center">Testes</h3>
+
+<div align="center">
+  <table>
+    <tr>
+      <th>Jest</th>
+      <th>RTL</th>
+      <th>Chai</th>
+      <th>Mocha</th>
+    </tr>
+    <tr>
+      <th>
+        <img align="center" width="40" height="50"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"/>
+      </th>
+      <th>
+        <img align="center" width="40" height="50"
+        src="https://testing-library.com/img/octopus-128x128.png"/>
+      </th>
+      <th>
+        <img align="center" width="40" height="50"
+        src="https://iconape.com/wp-content/files/zh/350732/svg/chai-seeklogo.com.svg"/>
+      </th>
+      <th>
+        <img align="center" width="40" height="50"  
+        src="https://iconape.com/wp-content/files/qs/371094/svg/371094.svg"/>
+      </th>
+    </tr>
+  </table>
+</div>
 # A desenvolver
 
 <div align="center">
