@@ -1,12 +1,8 @@
 <h1 align="center">👋 Olá, me chamo Bruno Tomaz</h1>
 
-- 👀 Gosto de tecnologia, games, hq's, UCM, e outras nerdices.
+- 👀 Gosto de tecnologia, games, hq's, UCM. E agora que conheci a CCXP pessoalmente, deve ser fácil me encontrar por lá nos próximos anos.
 
-- 🌱 Estudo atualmente desenvolvimento web na Trybe
-
-<br/>
-<br/>
-<br/>
+- Estudo atualmente desenvolvimento web na Trybe, já estando formado como Desenvolvedor Front-end e finalizando Back-end.
 
 <h3 align="left">📫 Quer me encontrar?</h3>
 <p align="left">
@@ -18,8 +14,6 @@
 </a>
 </p>
 
-<br/>
-<br/>
 <br/>
 
 <h1 align="center">Tecnologias</h1>
@@ -40,10 +34,10 @@
         <img align="center" alt="Logo-ts" width="40" height="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
       </th>
       <th>
-        <img align="center" alt="Logo-ts" width="40" height="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+        <img align="center" alt="Logo-git" width="40" height="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
       </th>
       <th>
-        <img align="center" alt="Logo-ts" width="40" height="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"/>
+        <img align="center" alt="Logo-docker" width="40" height="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"/>
       </th>
     </tr>
   </table>
@@ -56,25 +50,63 @@
     <tr>
       <th>HTML</th>
       <th>CSS</th>
-      <th>React.Js</th>
+      <th>React</th>
       <th>React Router</th>
       <th>Redux</th>
     </tr>
     <tr>
       <th>
-        <img align="center" alt="Logo-js" width="40" height="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+        <img align="center" alt="Logo-html" width="40" height="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
       </th>
       <th>
-        <img align="center" alt="Logo-ts" width="40" height="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+        <img align="center" alt="Logo-css" width="40" height="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
       </th>
       <th>
-        <img align="center" alt="Logo-ts" width="40" height="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+        <img align="center" alt="Logo-react" width="40" height="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
       </th>
       <th>
-        <img align="center" alt="Logo-ts" width="50" height="50"  src="https://reactrouter.com/_brand/react-router-mark-color-inverted.svg"/>
+        <img align="center" alt="Logo-router" width="50" height="50"  src="https://reactrouter.com/_brand/react-router-mark-color-inverted.svg"/>
       </th>
       <th>
-        <img align="center" alt="Logo-ts" width="40" height="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+        <img align="center" alt="Logo-redux" width="40" height="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+      </th>
+    </tr>
+  </table>
+</div>
+
+<h3 align="center">Back-end</h3>
+
+<div align="center">
+  <table>
+    <tr>
+      <th>Mysql</th>
+      <th>Sequelize</th>
+      <th>MongoDB</th>
+      <th>NodeJs</th>
+      <th>Express.js</th>
+      <th>JWT</th>
+    </tr>
+    <tr>
+      <th>
+        <img align="center" width="40" height="50"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+      </th>
+      <th>
+        <img align="center" width="40" height="50"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg"/>
+      </th>
+      <th>
+        <img align="center" width="40" height="50"  
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
+      </th>
+      <th>
+        <img align="center" alt="Logo-router" width="50" height="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+      </th>
+      <th>
+        <img align="center" alt="Logo-router" width="50" height="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
+      </th>
+      <th>
+        <img align="center" alt="Logo-redux" width="50" height="50"  src="https://vegibit.com/wp-content/uploads/2018/07/JSON-Web-Token-Authentication-With-Node.png" />
       </th>
     </tr>
   </table>
