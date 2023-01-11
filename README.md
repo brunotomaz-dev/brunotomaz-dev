@@ -112,7 +112,7 @@
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
       </th>
       <th>
-        <img align="center" width="50" height="50"  
+        <img align="center" width="70" height="50"  
         src="https://vegibit.com/wp-content/uploads/2018/07/JSON-Web-Token-Authentication-With-Node.png" />
       </th>
     </tr>
