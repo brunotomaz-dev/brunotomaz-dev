@@ -14,7 +14,7 @@
 <a href="mailto:tomaz.bruno@gmail.com" target="_blank">
   <img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="mailto:tomaz.bruno@gmail.com" target="_blank">
+<a href="https://brunotomaz-dev.github.io" target="_blank">
   <img align="center" alt="Gmail" src="https://img.shields.io/badge/Portifólio-Em Construção-blue?style=for-the-badge" />
 </a>
 </p>
