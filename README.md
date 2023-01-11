@@ -1,6 +1,8 @@
-<h1 align="center">👋 Olá, me chamo Bruno Tomaz</h1>
+<h1 align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá+👋,+Meu+nome+é+Bruno+Tomaz.;É+um+grande+prazer+ter+você+aqui!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=18D412&width=435&lines=Ol%C3%A1+%F0%9F%91%8B%2C+meu+nome+%C3%A9+Bruno+Tomaz.;%C3%89+um+prazer+ter+voc%C3%AA+aqui)](https://git.io/typing-svg)
+
+</h1>
 
 - 👀 Gosto de tecnologia, games, hq's, UCM. E agora que conheci a CCXP pessoalmente, deve ser fácil me encontrar por lá nos próximos anos.
 
@@ -9,7 +11,7 @@
 <h3 align="left">📫 Quer me encontrar?</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/brunotomaz-dev/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" align="center" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" align="center">
 </a>
 <a href="mailto:tomaz.bruno@gmail.com" target="_blank">
   <img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
