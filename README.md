@@ -6,6 +6,8 @@
 
 - 👀 Gosto de tecnologia, games, hq's, UCM. E agora que conheci a CCXP pessoalmente, deve ser fácil me encontrar por lá nos próximos anos.
 
+- Estou em um momento de transição de carreira.
+
 - Estudo atualmente desenvolvimento web na Trybe, já estando formado como Desenvolvedor Front-end e finalizando Back-end.
 
 <h3 align="left">📫 Quer me encontrar?</h3>
