@@ -9,7 +9,7 @@
 <h3 align="left">📫 Quer me encontrar?</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/brunotomaz-dev/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" align="center">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" align="center" target="_blank">
 </a>
 <a href="mailto:tomaz.bruno@gmail.com" target="_blank">
   <img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
