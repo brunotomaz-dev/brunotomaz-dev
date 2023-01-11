@@ -1,5 +1,7 @@
 <h1 align="center">👋 Olá, me chamo Bruno Tomaz</h1>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá+👋,+Meu+nome+é+Bruno+Tomaz.;É+um+grande+prazer+ter+você+aqui!)](https://git.io/typing-svg)
+
 - 👀 Gosto de tecnologia, games, hq's, UCM. E agora que conheci a CCXP pessoalmente, deve ser fácil me encontrar por lá nos próximos anos.
 
 - Estudo atualmente desenvolvimento web na Trybe, já estando formado como Desenvolvedor Front-end e finalizando Back-end.
@@ -11,6 +13,9 @@
 </a>
 <a href="mailto:tomaz.bruno@gmail.com" target="_blank">
   <img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="mailto:tomaz.bruno@gmail.com" target="_blank">
+  <img align="center" alt="Gmail" src="https://img.shields.io/badge/Portifólio-Em Construção-blue?style=for-the-badge" />
 </a>
 </p>
 
@@ -55,7 +60,7 @@
   </table>
 </div>
 
-<h3 align="center">Front-end</h3>
+<h2 align="center">Front-end</h2>
 
 <div align="center">
   <table>
@@ -86,7 +91,7 @@
   </table>
 </div>
 
-<h3 align="center">Back-end</h3>
+<h2 align="center">Back-end</h2>
 
 <div align="center">
   <table>
@@ -141,17 +146,22 @@
     </tr>
     <tr>
       <th>MongoDB</th>
+      <!-- <th>Mongoose</th> -->
     </tr>
     <tr>
       <th>
         <img align="center" width="40" height="50"  
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
       </th>
+      <!-- <th>
+        <img align="center" width="40" height="50"  
+        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png"/>
+      </th> -->
     </tr>
   </table>
 </div>
 
-<h3 align="center">Testes</h3>
+<h2 align="center">Testes</h2>
 
 <div align="center">
   <table>
@@ -182,7 +192,16 @@
   </table>
 </div>
 
-# A desenvolver
+## Em desenvolvimento
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Mongoose-darkgreen?style=for-the-badge&logo=mongodb&logoColor=green"/>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+</div>
+
+<br/>
+
+## Estatísticas
 
 <div align="center">
   <a href="https://github.com/brunotomaz-dev">
