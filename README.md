@@ -150,17 +150,17 @@
     </tr>
     <tr>
       <th>MongoDB</th>
-      <!-- <th>Mongoose</th> -->
+      <th>Mongoose</th>
     </tr>
     <tr>
       <th>
         <img align="center" width="40" height="50"  
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
       </th>
-      <!-- <th>
+      <th>
         <img align="center" width="40" height="50"  
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png"/>
-      </th> -->
+      </th>
     </tr>
   </table>
 </div>
@@ -199,7 +199,6 @@
 ## Em desenvolvimento
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Mongoose-darkgreen?style=for-the-badge&logo=mongodb&logoColor=green"/>
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
 </div>
 
