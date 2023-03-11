@@ -208,8 +208,7 @@
 
 <div align="center">
   <a href="https://github.com/brunotomaz-dev">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=brunotomaz-dev&show_icons=true&theme=nord&include_all_commits=true&count_private=true#gh-dark-mode-only"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=brunotomaz-dev&show_icons=true&theme=solarized-light&include_all_commits=true&count_private=true#gh-light-mode-only"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=brunotomaz-dev&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunotomaz-dev&layout=compact&langs_count=7&theme=nord"/>
 </div>
 
