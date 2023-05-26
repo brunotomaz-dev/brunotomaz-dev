@@ -200,6 +200,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/Java-white?style=for-the-badge&logo=java&logoColor=blue"/>
 </div>
 
 <br/>
