@@ -209,11 +209,11 @@
 
 <div align="center">
   <a href="https://github.com/brunotomaz-dev">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=brunotomaz-dev&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunotomaz-dev&layout=compact&langs_count=7&theme=nord"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunotomaz-dev&layout=compact&langs_count=7&theme=nord&hide_border=true&border_radius=10"/>
+  <img height="150em" src="https://streak-stats.demolab.com/?user=brunotomaz-dev&theme=nord&hide_border=true&border_radius=10"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=brunotomaz-dev&show_icons=true&theme=nord&include_all_commits=true&count_private=true&hide_border=true&border_radius=10"/>
+  <img height="150em" src="https://github-contributor-stats.vercel.app/api?username=brunotomaz-dev&layout=compact&theme=nord&limit=5&hide_border=true&border_radius=10"/>
 </div>
-<div align="center"> 
- <img height="150em" src="https://github-contributor-stats.vercel.app/api?username=brunotomaz-dev&layout=compact&theme=nord&limit=5"/>
-</div>
+
   
 ![](https://komarev.com/ghpvc/?username=brunotomaz-dev&color=yellowgreen)
