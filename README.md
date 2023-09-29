@@ -4,11 +4,11 @@
 
 </h1>
 
-- 👀 Gosto de tecnologia, games, hq's, UCM. E agora que conheci a CCXP pessoalmente, deve ser fácil me encontrar por lá nos próximos anos.
+- 👀 Amante de tecnologia, games, hq's, UCM. E agora que conheci a CCXP pessoalmente, deve ser fácil me encontrar por lá nos próximos anos.
 
-- Estou em um momento de transição de carreira.
+- Estou em um momento de transição de carreira. Embora a tecnologia sempre fez parte da minha vida como hobbie.
 
-- Estudo atualmente desenvolvimento web na Trybe, já estando formado como Desenvolvedor Front-end e finalizando Back-end.
+- Sou um desenvolvedor Full-Stack, com mais de 1500 horas de estudo e mais de 20 projetos, alguns em front, outros em back, alguns full-stack.
 
 <h3 align="left">📫 Quer me encontrar?</h3>
 <p align="left">
