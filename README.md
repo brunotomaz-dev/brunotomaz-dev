@@ -212,8 +212,8 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunotomaz-dev&layout=compact&langs_count=8&theme=nord&hide_border=true&border_radius=10"/>
   <img max-height=180 align="center" src="https://github-readme-stats.vercel.app/api/wakatime/?username=brunotomaz_dev&layout=compact&langs_count=8&theme=nord&hide_border=true&border_radius=10"/>
   <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=brunotomaz-dev&show_icons=true&theme=nord&include_all_commits=true&count_private=true&hide_border=true&border_radius=10&rank_icon=github"/>
-  <img height=170 align="center" src="https://streak-stats.demolab.com/?user=brunotomaz-dev&theme=nord&hide_border=true&border_radius=10"/>
   <!---
+  <img height=170 align="center" src="https://streak-stats.demolab.com/?user=brunotomaz-dev&theme=nord&hide_border=true&border_radius=10"/>
   <img height="150em" src="https://github-contributor-stats.vercel.app/api?username=brunotomaz-dev&layout=compact&theme=nord&limit=5&hide_border=true&border_radius=10"/>
   -->
 </div>
