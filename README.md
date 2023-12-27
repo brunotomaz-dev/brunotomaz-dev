@@ -40,6 +40,9 @@
       <th>
         <img align="center" alt="Logo-ts" width="40" height="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
       </th>
+      <th>
+        <img align="center" alt="Logo-py" width="40" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />  
+      </th>
     </tr>
   </table>
 
@@ -199,7 +202,6 @@
 ## Em desenvolvimento
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
   <img src="https://img.shields.io/badge/Java-white?style=for-the-badge&logo=java&logoColor=blue"/>
 </div>
 
