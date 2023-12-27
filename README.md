@@ -32,6 +32,7 @@
     <tr>
       <th>JavaScript</th>
       <th>Typescript</th>
+      <th>Python</th>
     </tr>
     <tr>
       <th>
