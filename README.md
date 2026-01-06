@@ -1,3 +1,6 @@
+
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
 <h1 align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=18D412&width=435&lines=Ol%C3%A1+%F0%9F%91%8B%2C+meu+nome+%C3%A9+Bruno+Tomaz.;%C3%89+um+prazer+ter+voc%C3%AA+aqui)](https://git.io/typing-svg)
@@ -90,7 +93,7 @@
         <img align="center" alt="Logo-react" width="40" height="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
       </th>
       <th>
-        <img align="center" alt="Logo-router" width="50" height="50"  src="https://reactrouter.com/_brand/react-router-mark-color.svg"/>
+        <i class="devicon-reactrouter-plain-wordmark" style="font-size: 75px"></i>
       </th>
       <th>
         <img align="center" alt="Logo-redux" width="40" height="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
@@ -106,6 +109,8 @@
     <tr>
       <th>NodeJs</th>
       <th>Express.js</th>
+      <th>Django</th>
+      <th>DRF</th>
       <th>JWT</th>
     </tr>
     <tr>
@@ -118,8 +123,14 @@
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
       </th>
       <th>
+        <i class="devicon-django-plain" style="font-size: 50px"></i>
+      </th>
+      <th>
+            <i class="devicon-djangorest-plain-wordmark" style="font-size: 70px"></i>
+          </th>
+      <th>
         <img align="center" width="70" height="50"  
-        src="https://vegibit.com/wp-content/uploads/2018/07/JSON-Web-Token-Authentication-With-Node.png" />
+        src="https://img.icons8.com/?size=100&id=rHpveptSuwDz&format=png&color=000000" />
       </th>
     </tr>
   </table>
@@ -131,10 +142,18 @@
       <th colspan="4" align="center">SQL</th>
     </tr>
     <tr>
+      <th>SQL Server</th>
+      <th>Postgres</th>
       <th>Mysql</th>
       <th>Sequelize</th>
     </tr>
     <tr>
+      <th>
+        <img align="center" width="80" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
+      </th>
+      <th>
+        <img align="center" width="60" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" />
+      </th>
       <th>
         <img align="center" width="40" height="50"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
@@ -158,11 +177,11 @@
     </tr>
     <tr>
       <th>
-        <img align="center" width="40" height="50"  
+        <img align="center" width="70" height="50"  
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
       </th>
       <th>
-        <img align="center" width="40" height="50"  
+        <img align="center" width="70" height="50"  
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png"/>
       </th>
     </tr>
@@ -211,15 +230,14 @@
 ## Estatísticas
 
 <div align="center">
-  <a href="https://github.com/brunotomaz-dev">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunotomaz-dev&layout=compact&langs_count=8&theme=nord&hide_border=true&border_radius=10"/>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=brunotomaz-dev&show_icons=true&theme=nord&include_all_commits=true&count_private=true&hide_border=true&border_radius=10&rank_icon=github"/>
-  <img max-height=180 align="center" src="https://github-readme-stats.vercel.app/api/wakatime/?username=brunotomaz_dev&layout=compact&langs_count=8&theme=nord&hide_border=true&border_radius=10"/>
+  <a href="https://github.com/pranesh-2005/github-readme-stats-fast">
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=brunotomaz-dev&theme=nord&layout=compact&hide_border=true&border_radius=10"/>
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/streak?username=brunotomaz-dev&show_icons=true&theme=nord&include_all_commits=true&count_private=true&hide_border=true&border_radius=10&rank_icon=github"/>
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=brunotomaz_dev&layout=compact&langs_count=8&theme=nord&hide_border=true&border_radius=10"/>
   <!---
   <img height=170 align="center" src="https://streak-stats.demolab.com/?user=brunotomaz-dev&theme=nord&hide_border=true&border_radius=10"/>
   <img height="150em" src="https://github-contributor-stats.vercel.app/api?username=brunotomaz-dev&layout=compact&theme=nord&limit=5&hide_border=true&border_radius=10"/>
   -->
 </div>
 
-  
 ![](https://komarev.com/ghpvc/?username=brunotomaz-dev&color=yellowgreen)
